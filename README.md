@@ -1,3 +1,6 @@
+##Note
+My actual files can be found at https://github.com/calin-p/datasciencecoursera/tree/master/Exploratory_Analysis
+
 ## Introduction
 
 This assignment uses data from
